@@ -1,7 +1,6 @@
 <img src="https://github.com/DeedsBaron/White_Punk/blob/9e0443193555c10b88f9e02333b93ff5bb506ca6/giphy.gif" width="1000" height="270" />
-### Learning CPP 😎
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/suzumaki?privacyName=true&)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dbaron?privacyName=true&)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **BillyKlebitz/BillyKlebitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
